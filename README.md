@@ -36,7 +36,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## Installation
 
-* Clone this repository: `git clone "https://github.com/ralexrivero/AirBnB_clone_v3"`
+* Clone this repository: `git clone "https://github.com/fuadcoder/AirBnB_clone_v3"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
